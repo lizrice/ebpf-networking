@@ -47,3 +47,7 @@ Examples include
 * XDP 
 * Traffic control - adding a filter on ingress 
 
+## More examples
+
+This is part of a series of eBPF example code that are indexed at [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners)
+
